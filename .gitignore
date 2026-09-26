@@ -1,0 +1,11 @@
+# Build artifacts and dependency directories
+node_modules/
+_next/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*
